@@ -10,6 +10,7 @@ n2=10
 # print(n1,n2)
 
 print("Without Third variable")
+print("Without Third variable")
 
 print("n1 = ",n1,"  n2 = ",n2)
 n1=n1+n2  # n1 = 15
